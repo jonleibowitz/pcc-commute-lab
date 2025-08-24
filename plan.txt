@@ -1,0 +1,52 @@
+PCC Commute Lab – Sprint Intentions
+-----------------------------------
+
+Cadence: Two weeks per sprint
+Start: August 25, 2025
+End: December 2025 (finals week)
+
+Sprint 0 (Aug 25 – Sep 7)
+Intention: Get the project on its feet. Set up the repo, publish something 
+simple,
+and orient myself with my classes and this workflow.
+
+Sprint 1 (Sep 8 – Sep 21)
+Intention: Begin shaping the site into something that looks real.
+Play with layout, start thinking about data, and make sure I’m not falling 
+behind in class.
+
+Sprint 2 (Sep 22 – Oct 5)
+Intention: Add the first real signs of interactivity.
+Experiment with simple JavaScript and keep the idea of commute data in 
+mind.
+
+Sprint 3 (Oct 6 – Oct 19)
+Intention: Wrap the first course (CIS 192) on a strong note.
+Polish the basics, keep the repo clean, and prep for the next phase.
+
+Sprint 4 (Oct 20 – Nov 2)
+Intention: Dive deeper with JavaScript in CIS 193.
+Make the site feel alive and connect it more closely to real commute 
+experiences.
+
+Sprint 5 (Nov 3 – Nov 16)
+Intention: Add actual commute data.
+Find a way to represent time, distance, or modes visually so it’s not just 
+a demo site.
+
+Sprint 6 (Nov 17 – Dec 1)
+Intention: Refine and expand. Improve usability, make the project 
+accessible,
+and start writing down how to present it.
+
+Sprint 7 (Dec 2 – Dec 15)
+Intention: Final polish. Prepare something I can show off proudly to 
+classmates,
+professors, and maybe even coworkers at Public Works. Frame it as a tool 
+that
+could eventually help staff consider alternatives to driving.
+
+-----------------------------------
+This plan is flexible. Each sprint is a checkpoint where I can look back,
+adjust course, and keep building momentum toward the end of Fall 2025.
+
